@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="../f_Xlink/cdbookstore.xsl"?>
+    <bookstore xmlns:xlink="http://www.w3.org/1999/xlink">
+        <book title="Hands-On Start to Wolfram Mathematica">
+            <description xlink:type="simple" xlink:href="https://www.amazon.com/Hands--Start-Wolfram-Mathematica-Hastings/dp/1579550770/ref=sr_1_1?ie=UTF8&amp;cqid=1476690742&amp;sr=8-1&amp;keywords=mathematica" xlink:show="new">
+                    For more than 25 years, Mathematica has been the principal computation environment for millions of innovators,
+                    educators, students, and others around the world. This book is an introduction to Mathematica. The goal is to provide a
+                    hands-on experience introducing the breadth of Mathematica, with a focus on ease of use.
+            </description>
+        </book>
+        <book title="Harry Potter">
+            <description xlink:type="simple" xlink:href="https://www.amazon.com/Elementary-Introduction-Wolfram-Language/dp/1944183000/ref=sr_1_2?ie=UTF8&amp;qid=1476690742&amp;sr=8-2&amp;keywords=mathematica" xlink:show="new">
+                The Wolfram Language represents a major advance in programming languages that makes leading-edge computation
+                accessible to everyone. Unique in its approach of building in vast knowledge and automation, the Wolfram Language scales
+                from a single line of easy-to-understand interactive code to million-line production systems.
+            </description>
+        </book>
+</bookstore>
